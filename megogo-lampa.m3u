@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" group-title="MEGOGO",MEGOGO Спорт
+http://e9d72880.megatv.fun/iptv/W3PLF7YX827A3SN2PX8UKD8M/31612/index.m3u8
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" group-title="MEGOGO",MEGOGO Спорт (резерв 1)
+http://9udld7sa.megatv.fun/iptv/5SZPYLB5U9UTDB/31612/index.m3u
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" group-title="MEGOGO",MEGOGO Спорт (резерв 2)
+http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8
